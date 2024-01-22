@@ -17,8 +17,8 @@ The primary objectives of ChurnGuardML include:
 ## Project Structure
 
 ChurnGuardML is structured with a focus on comprehensive analysis and model development:
-
-1. **Exploratory Data Analysis (EDA):** In-depth analysis to understand data distribution, correlations, and identify crucial features.
+x
+1. **Exploratory Data Analysis (EDA):**s In-depth analysis to understand data distribution, correlations, and identify crucial features.
 
 2. **Data Preprocessing:** Handle missing values, encode categorical variables, standardize data, and prepare it for effective model training.
 
@@ -30,9 +30,24 @@ ChurnGuardML is structured with a focus on comprehensive analysis and model deve
 
 6. **Model Saving:** Save trained models for future deployment and usage.
 
-## Dependencies
+## Dependencies (Spark, databriks, RDD)
 
 Ensure that the following Python libraries are installed before running the code:
 
 ```bash
 pip install pyspark pandas numpy scikit-learn
+
+
+
+## How to Use
+
+1. **Data Exploration and Preprocessing:** Execute the EDA and preprocessing notebook to gain insights into the data and prepare it for modeling.
+
+2. **Model Construction and Evaluation:** Utilize the model construction notebook to train various models and assess their performance.
+
+3. **Validation and Tuning:** Improve model accuracy through the validation and tuning notebook, employing cross-validation and hyperparameter tuning.
+
+4. **Model Saving:** Save trained models for future deployment and ongoing usage.
+
+
+
