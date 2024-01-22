@@ -17,8 +17,8 @@ The primary objectives of ChurnGuardML include:
 ## Project Structure
 
 ChurnGuardML is structured with a focus on comprehensive analysis and model development:
-x
-1. **Exploratory Data Analysis (EDA):**s In-depth analysis to understand data distribution, correlations, and identify crucial features.
+
+1. **Exploratory Data Analysis (EDA):** In-depth analysis to understand data distribution, correlations, and identify crucial features.
 
 2. **Data Preprocessing:** Handle missing values, encode categorical variables, standardize data, and prepare it for effective model training.
 
