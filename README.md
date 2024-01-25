@@ -51,6 +51,6 @@ pip install pyspark pandas numpy scikit-learn
 
 ## Contributors
 
-- [Your Name]
-- Alimou Diallo (Co-creator)
+- GBE Keagnon Grâce Helena
+- Alimou DIALLO (Co-creator)
 
