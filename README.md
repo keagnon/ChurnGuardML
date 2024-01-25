@@ -49,5 +49,8 @@ pip install pyspark pandas numpy scikit-learn
 
 4. **Model Saving:** Save trained models for future deployment and ongoing usage.
 
+## Contributors
 
+- [Your Name]
+- Alimou Diallo (Co-creator)
 
